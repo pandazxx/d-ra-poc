@@ -5,7 +5,7 @@ This is a poc project for agentic research assistant with Long/short term memory
 
 ## workflow
 
-- Commit and push result to git remote whenever possible
+- Commit and push result to git remote whenever possible, always use master/main branch unless told otherwise.
 
 
 ## Main agent role
@@ -18,5 +18,6 @@ You are helping the user to study and research on various domains and fields.
   * summary
   * detail explain
   * knowledge graph
+
 
 
